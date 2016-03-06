@@ -12,6 +12,18 @@ public class Student extends Borrower {
   public String getGrade(){return grade;}
   public String getHroom(){return homeroom;}
   
+  public void browse (String x){
+
+  }
+
+  public void CheckOut(){
+
+  }
+ 
+  public void returnBook(){
+
+  }
+  
   
   
   
