@@ -9,6 +9,18 @@ public class Teacher extends Borrower {
   
   public String getID(){ return ID;}
   public String getName(){return name;}
+  
+  public void browse (String x){
+ 
+  }
+
+  public void CheckOut(){
+
+  }
+
+  public void returnBook(){
+
+  }
 
   
   
